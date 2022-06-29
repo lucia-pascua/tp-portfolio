@@ -1,8 +1,25 @@
-p{color: palevioletred}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: small;
+    background-color: rgb(188, 214, 193);
+    color: rgb(57, 57, 57);
+}
 
-.img_redonda{
-    width: 250px;
-    height:300px;
-    border-radius:150px;
-    border:5px solid rgb(234, 162, 162);
+body {
+    display: block;
+    margin: 8px;
+}
+
+h1{
+    background-color: rgb(19, 49, 7);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h3{
+    background-color: rgb(27, 71, 10);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: small;
 }
